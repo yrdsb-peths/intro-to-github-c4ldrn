@@ -1,1 +1,4 @@
-
+public void Hello()
+{
+    String hello = "Hello";
+}
